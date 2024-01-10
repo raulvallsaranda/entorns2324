@@ -1,0 +1,19 @@
+Fitxers alumnat:
+---------
+01maikol
+02ismael
+03tomas
+04alejandro
+05baldo
+06paula
+07joaquin
+08joan
+09lucas
+10pau
+11laura
+12adria
+13david
+14helena
+15edgar
+16ivan
+
